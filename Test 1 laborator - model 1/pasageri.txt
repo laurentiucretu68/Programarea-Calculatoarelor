@@ -1,0 +1,5 @@
+AndreiA   45.5
+Gheorghe B48.7
+Constantin  C    12.4
+Vasile C  32.4
+Ionescu  D    17.9

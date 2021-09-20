@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606409708 source:c:\users\asus\desktop\facultate\programarea calculatoarelor\teste laborator\test4\161_cretu_laurentiu_vasile_nr4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
